@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=2dbcaad5d6f25486-2223331ec9c400b7:T=1605792648:RT=1605792648:S=ALNI_MZLQiutQdxL1JFyXpYeBFIS4vgQ0Q","_expires_":1639488648,"_path_":"/","_domain_":"royalchallengers.com"}]});
